@@ -1,0 +1,9 @@
+a.exe
+a.out
+todo.txt
+lex.yy.c
+parser.ouput
+parser.tab.c
+parser.tab.h
+lex.yy.o
+parser.tab.o
